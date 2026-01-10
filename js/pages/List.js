@@ -105,6 +105,8 @@ export default {
                     <p>
                                         </p>
                     <p>
+                                        </p>
+                    <p>
                         The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning. (Under some conditions, roll/rake levels can have actual gameplay, as long as the difficult part is the roll/rake section and the real gameplay isnt overbearing, EX: Nightmare The)
                     </p>
                     <p>
