@@ -113,16 +113,24 @@ export default {
                         You are allowed to use any methods of spamming, but levels must be beaten with the method/fps they were verified with. (240hz and CBF will be counted as the same thing)
                     </p>
                     <p>
+                                        </p>
+                    <p>
                         A maximum of 2 inputs are allowed when spamming. Before submitting roll/rake levels/completions be sure that you do not overtap or double click, do not modify your trigger distance from the default setting for rake/roll challenges. DM a list mod for help checking your device. 
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
+                                        </p>
+                    <p>
                         Uncapped devices have a debounce delay of 10ms or less, levels also do not have a time limit, make them as short or as long as you want
                     </p>
                     <p>
+                                        </p>
+                    <p>
                         Players with mod menus installed MUST have cheat indicator enabled.
                     </p>
+                    <p>
+                                        </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
