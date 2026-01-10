@@ -105,8 +105,6 @@ export default {
                     <p>
                                         </p>
                     <p>
-                                        </p>
-                    <p>
                         The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning. (Under some conditions, roll/rake levels can have actual gameplay, as long as the difficult part is the roll/rake section and the real gameplay isnt overbearing, EX: Nightmare The)
                     </p>
                     <p>
@@ -118,6 +116,10 @@ export default {
                                         </p>
                     <p>
                         A maximum of 2 inputs are allowed when spamming. Before submitting roll/rake levels/completions be sure that you do not overtap or double click, do not modify your trigger distance from the default setting for rake/roll challenges. DM a list mod for help checking your device. 
+                    <p>
+                                        </p>
+                    <p>
+                                        </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
