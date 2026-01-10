@@ -100,25 +100,24 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks, CBF and physics bypass are allowed
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning. (Under some conditions, roll/rake levels can have actual gameplay, as long as the difficult part is the roll/rake section and the real gameplay isnt overbearing, EX: Nightmare The)
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        You are allowed to use any methods of spamming, but levels must be beaten with the method/fps they were verified with. (240hz and CBF will be counted as the same thing)
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
+                        A maximum of 2 inputs are allowed when spamming. Before submitting roll/rake levels/completions be sure that you do not overtap or double click, do not modify your trigger distance from the default setting for rake/roll challenges. DM a list mod for help checking your device. 
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Uncapped devices have a debounce delay of 10ms or less, levels also do not have a time limit, make them as short or as long as you want
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Players with mod menus installed MUST have cheat indicator enabled.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
