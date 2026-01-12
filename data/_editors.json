@@ -1,23 +1,23 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Squeeg",
+        "link": "https://www.youtube.com/channel/UCCkIsVA7hh8epa3Tf4xT9GA"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "AngoPR",
+        "link": "https://www.youtube.com/@angoPR1/videos"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "admin",
+        "name": "Realtoreeeeee",
+        "link": "www.youtube.com/channel/UCJ5bFvT3tFWaM_LoJdlYKAw"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Helper",
+        "name": "BLJ_Broken",
+        "link": "https://www.youtube.com/@BLJBroken/"
     },
     {
         "role": "dev",
