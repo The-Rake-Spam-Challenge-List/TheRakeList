@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Altjitter/Ludwig/CBF",
     "records": [
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://www.youtube.com/watch?v=O9VBaxMSn8k",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
